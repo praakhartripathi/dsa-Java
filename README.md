@@ -6,3 +6,4 @@
 - [0001. Two Sum](easy/0001_TwoSum.java)
 - [693. Binary Number with Alternating Bits](daily_leetcode/2026-02-18.md)
 - [696. Count Binary Substrings](daily_leetcode/2026-02-19.md)
+- [1313. Decompress Run-Length Encoded List](easy/1313. Decompress Run-Length Encoded List.md)

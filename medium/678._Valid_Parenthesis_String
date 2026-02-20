@@ -1,0 +1,61 @@
+class Solution {
+    public boolean checkValidString(String s) {
+
+    // low  -> minimum possible number of open brackets '('
+    // high -> maximum possible number of open brackets '('
+    int low = 0;
+    int high = 0;
+
+    // iterate through every character
+    for (int i = 0; i < s.length(); i++) {
+
+        char ch = s.charAt(i);
+
+        // CASE 1: if current char is '('
+        if (ch == '(') {
+            // both min and max open brackets increase
+            low++;
+            high++;
+        }
+
+        // CASE 2: if current char is ')'
+        else if (ch == ')') {
+
+            // reduce minimum open count if possible
+            // (we match one '(' )
+            if (low > 0) {
+                low--;
+            }
+
+            // maximum open must reduce
+            high--;
+        }
+
+        // CASE 3: if current char is '*'
+        else {
+
+            // '*' can act like ')'
+            // so minimum open may decrease
+            if (low > 0) {
+                low--;
+            }
+
+            // '*' can act like '('
+            // so maximum open may increase
+            high++;
+        }
+
+        // if high becomes negative:
+        // even in best case we have more ')' than '('
+        // so string can never be valid
+        if (high < 0) {
+            return false;
+        }
+    }
+
+    // at the end:
+    // low == 0 means we can balance all opens
+    // otherwise some '(' remain unmatched
+    return low == 0;
+}
+}

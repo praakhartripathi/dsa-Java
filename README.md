@@ -5,6 +5,7 @@
   
 ## Easy Problems
 - [0001. Two Sum](easy/0001_TwoSum.java)
+- [20.Valid_Parentheses](easy/20.Valid_Parentheses.md)
 - [496.Next_Greater_Element_I](easy/496.Next_Greater_Element_I)
 - [693. Binary Number with Alternating Bits](daily_leetcode/2026-02-18.md)
 - [696. Count Binary Substrings](daily_leetcode/2026-02-19.md)

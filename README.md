@@ -9,5 +9,8 @@
 - [696. Count Binary Substrings](daily_leetcode/2026-02-19.md)
 - [1313. Decompress Run-Length Encoded List](easy/1313.Decompress_Run_Length_Encoded_List.md)
 
+## Hard Problem
+- [761. Special Binary String](daily_leetcode/2026-02-20.md)
+
 ## DSA
 - [monotonic_vs_stack](dsa/monotonic_vs_stack.md)

@@ -10,7 +10,7 @@
 - [1313. Decompress Run-Length Encoded List](easy/1313.Decompress_Run_Length_Encoded_List.md)
 
 ## Medium Problem
-- (678. Valid Parenthesis String)[medium/678._Valid_Parenthesis_String]
+- [678. Valid Parenthesis String](medium/678._Valid_Parenthesis_String)
 
 ## Hard Problem
 - [761. Special Binary String](daily_leetcode/2026-02-20.md)

@@ -3,7 +3,10 @@
 - [2026-02-19](daily_leetcode/2026-02-19.md)
 - [2026-02-20](daily_leetcode/2026-02-20.md)
 - [2026-02-21](daily_leetcode/2026-02-21.md)
-  
+
+## Math Problem 
+- (Math)
+
 ## Easy Problems
 - [0001. Two Sum](easy/0001_TwoSum.java)
 - [20.Valid_Parentheses](easy/20.Valid_Parentheses.md)

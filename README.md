@@ -5,7 +5,7 @@
 - [2026-02-21](daily_leetcode/2026-02-21.md)
 
 ## Math Problem 
-- (Math)
+- [checkPrime](Math/checkPrime.md)
 
 ## Easy Problems
 - [0001. Two Sum](easy/0001_TwoSum.java)

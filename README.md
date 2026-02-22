@@ -14,6 +14,7 @@
 - [693. Binary Number with Alternating Bits](daily_leetcode/2026-02-18.md)
 - [696. Count Binary Substrings](daily_leetcode/2026-02-19.md)
 - [762. Prime Number of Set Bits in Binary Representation](daily_leetcode/2026-02-21.md)
+- [868. Binary Gap](daily_leetcode/2026-02-22.md)
 - [1313. Decompress Run-Length Encoded List](easy/1313.Decompress_Run_Length_Encoded_List.md)
 
 ## Medium Problem

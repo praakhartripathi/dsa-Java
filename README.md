@@ -3,7 +3,7 @@
 ### IBM
 - [Data Engineer-Machine Learning](company_wise/ibm/datascience.md)
 
-## [Prepare SQL]
+## Prepare SQL
 - []()
 
 ## Dailey Leetcode

@@ -39,6 +39,7 @@
 ## Prepare SQL
 - [RDBMS](prepare-sql/RDBMS.md)
 - [SQL_vs_NOSQL](prepare-sql/SQL_vs_NOSQL.md)
+- [sql-keyword](prepare-sql/sql-keyword.md)
 ## company wise
 
 ### IBM

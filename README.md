@@ -26,6 +26,7 @@
 
 ## Medium Problem
 - [79.Word_Search](medium/79.Word_Search.md)
+- [98.ValidateBinarySearchTree](medium/98.ValidateBinarySearchTree.md)
 - [678. Valid Parenthesis String](medium/678._Valid_Parenthesis_String)
 - [1461. Check If a String Contains All Binary Codes of Size K](daily_leetcode/2026-02-23.md)
 

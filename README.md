@@ -1,11 +1,3 @@
-## company wise
-
-### IBM
-- [Data Engineer-Machine Learning](company_wise/ibm/datascience.md)
-
-## Prepare SQL
-- []()
-
 ## Dailey Leetcode
 - [2026-02-18](daily_leetcode/2026-02-18.md)
 - [2026-02-19](daily_leetcode/2026-02-19.md)
@@ -43,3 +35,12 @@
 
 ## DSA
 - [monotonic_vs_stack](dsa/monotonic_vs_stack.md)
+
+## Prepare SQL
+- [RDBMS](prepare-sql/RDBMS.md)
+- 
+## company wise
+
+### IBM
+- [Data Engineer-Machine Learning](company_wise/ibm/datascience.md)
+

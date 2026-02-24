@@ -3,6 +3,8 @@
 ### IBM
 - [Data Engineer-Machine Learning](company_wise/ibm/datascience.md)
 
+## [Prepare SQL](prepare-sql)
+
 ## Dailey Leetcode
 - [2026-02-18](daily_leetcode/2026-02-18.md)
 - [2026-02-19](daily_leetcode/2026-02-19.md)

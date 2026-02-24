@@ -24,6 +24,7 @@
 - [1313. Decompress Run-Length Encoded List](easy/1313.Decompress_Run_Length_Encoded_List.md)
 
 ## Medium Problem
+- [79.Word_Search](medium/79.Word_Search.md)
 - [678. Valid Parenthesis String](medium/678._Valid_Parenthesis_String)
 - [1461. Check If a String Contains All Binary Codes of Size K](daily_leetcode/2026-02-23.md)
 

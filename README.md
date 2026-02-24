@@ -1,7 +1,7 @@
 ## company wise
 
 ### IBM
-- [datascience](company_wise/ibm/datascience.md)
+- [Data Engineer-Machine Learning](company_wise/ibm/datascience.md)
 
 ## Dailey Leetcode
 - [2026-02-18](daily_leetcode/2026-02-18.md)

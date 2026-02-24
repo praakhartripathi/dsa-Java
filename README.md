@@ -35,6 +35,7 @@
 
 ## DSA
 - [monotonic_vs_stack](dsa/monotonic_vs_stack.md)
+- [dfs](dsa/dfs.md)
 
 ## Prepare SQL
 - [RDBMS](prepare-sql/RDBMS.md)

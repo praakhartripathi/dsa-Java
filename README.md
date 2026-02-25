@@ -24,6 +24,7 @@
 - [868. Binary Gap](daily_leetcode/2026-02-22.md)
 - [1022. Sum of Root To Leaf Binary Numbers](daily_leetcode/2026-02-24.md)
 - [1313. Decompress Run-Length Encoded List](easy/1313.Decompress_Run_Length_Encoded_List.md)
+- [1356. Sort Integers by The Number of 1 Bits](daily_leetcode/2026-02-25.md)
 
 ## Medium Problem
 - [79.Word_Search](medium/79.Word_Search.md)

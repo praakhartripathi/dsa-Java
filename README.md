@@ -6,6 +6,7 @@
 - [2026-02-22](daily_leetcode/2026-02-22.md)
 - [2026-02-23](daily_leetcode/2026-02-23.md)
 - [2026-02-24](daily_leetcode/2026-02-24.md)
+- [2026-02-25](daily_leetcode/2026-02-25.md)
 
 ## Math Problem 
 - [checkPrime](Math/checkPrime.md)

@@ -9,6 +9,7 @@
 - [2026-02-25](daily_leetcode/2026-02-25.md)
 - [2026-02-26](daily_leetcode/2026-02-26.md)
 - [2026-02-28](daily_leetcode/2026-02-28.md)
+- [2026-03-01](daily_leetcode/2026-03-01.md)
 
 ## Math Problem 
 - [checkPrime](Math/checkPrime.md)
@@ -35,6 +36,8 @@
 - [1404. Number of Steps to Reduce a Number in Binary Representation to One](daily_leetcode/2026-02-26.md)
 - [1461. Check If a String Contains All Binary Codes of Size K](daily_leetcode/2026-02-23.md)
 - [1680. Concatenation of Consecutive Binary Numbers](daily_leetcode/2026-02-28.md)
+- [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](daily_leetcode/2026-03-01.md)
+
 
 ## Hard Problem
 - [761. Special Binary String](daily_leetcode/2026-02-20.md)

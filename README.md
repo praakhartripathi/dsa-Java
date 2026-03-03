@@ -11,6 +11,7 @@
 - [2026-02-28](daily_leetcode/2026-02-28.md)
 - [2026-03-01](daily_leetcode/2026-03-01.md)
 - [2026-03-02](daily_leetcode/2026-03-02.md)
+- [2026-03-03](daily_leetcode/2026-03-03.md)
 
 ## Math Problem 
 - [checkPrime](Math/checkPrime.md)
@@ -37,6 +38,7 @@
 - [1404. Number of Steps to Reduce a Number in Binary Representation to One](daily_leetcode/2026-02-26.md)
 - [1461. Check If a String Contains All Binary Codes of Size K](daily_leetcode/2026-02-23.md)
 - [1536. Minimum Swaps to Arrange a Binary Grid](daily_leetcode/2026-03-02.md)
+- [1545. Find Kth Bit in Nth Binary String](daily_leetcode/2026-03-03.md)
 - [1680. Concatenation of Consecutive Binary Numbers](daily_leetcode/2026-02-28.md)
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](daily_leetcode/2026-03-01.md)
 

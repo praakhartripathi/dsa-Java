@@ -12,6 +12,7 @@
 - [2026-03-01](daily_leetcode/2026-03-01.md)
 - [2026-03-02](daily_leetcode/2026-03-02.md)
 - [2026-03-03](daily_leetcode/2026-03-03.md)
+- [2026-03-04](daily_leetcode/2026-03-04.md)
 
 ## Math Problem 
 - [checkPrime](Math/checkPrime.md)
@@ -30,6 +31,7 @@
 - [1022. Sum of Root To Leaf Binary Numbers](daily_leetcode/2026-02-24.md)
 - [1313. Decompress Run-Length Encoded List](easy/1313.Decompress_Run_Length_Encoded_List.md)
 - [1356. Sort Integers by The Number of 1 Bits](daily_leetcode/2026-02-25.md)
+- [1582. Special Positions in a Binary Matrix](daily_leetcode/2026-03-04.md)
 
 ## Medium Problem
 - [79.Word_Search](medium/79.Word_Search.md)

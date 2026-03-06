@@ -14,7 +14,8 @@
 - [2026-03-03](daily_leetcode/2026-03-03.md)
 - [2026-03-04](daily_leetcode/2026-03-04.md)
 - [2026-03-05](daily_leetcode/2026-03-05.md)
-
+- [2026-03-05](daily_leetcode/2026-03-05.md)
+  
 ## Math Problem 
 - [checkPrime](Math/checkPrime.md)
 - [findBinary](Math/findBinary.md)
@@ -34,6 +35,7 @@
 - [1356. Sort Integers by The Number of 1 Bits](daily_leetcode/2026-02-25.md)
 - [1582. Special Positions in a Binary Matrix](daily_leetcode/2026-03-04.md)
 - [1758. Minimum Changes To Make Alternating Binary String](daily_leetcode/2026-03-05.md)
+- [1784. Check if Binary String Has at Most One Segment of Ones](daily_leetcode/2026-03-05.md)
 
 ## Medium Problem
 - [79.Word_Search](medium/79.Word_Search.md)

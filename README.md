@@ -14,7 +14,8 @@
 - [2026-03-03](daily_leetcode/2026-03-03.md)
 - [2026-03-04](daily_leetcode/2026-03-04.md)
 - [2026-03-05](daily_leetcode/2026-03-05.md)
-- [2026-03-05](daily_leetcode/2026-03-05.md)
+- [2026-03-06](daily_leetcode/2026-03-05.md)
+- [2026-03-07](daily_leetcode/2026-03-07.md)
   
 ## Math Problem 
 - [checkPrime](Math/checkPrime.md)
@@ -47,6 +48,8 @@
 - [1545. Find Kth Bit in Nth Binary String](daily_leetcode/2026-03-03.md)
 - [1680. Concatenation of Consecutive Binary Numbers](daily_leetcode/2026-02-28.md)
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](daily_leetcode/2026-03-01.md)
+- [1888. Minimum Number of Flips to Make the Binary String Alternating](daily_leetcode/2026-03-07.md)
+
 
 
 ## Hard Problem

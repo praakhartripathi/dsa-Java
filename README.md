@@ -50,7 +50,7 @@
 - [1680. Concatenation of Consecutive Binary Numbers](daily_leetcode/2026-02-28.md)
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](daily_leetcode/2026-03-01.md)
 - [1888. Minimum Number of Flips to Make the Binary String Alternating](daily_leetcode/2026-03-07.md)
-
+- [1980. Find Unique Binary String](daily_leetcode/2026-03-08.md)
 
 
 ## Hard Problem

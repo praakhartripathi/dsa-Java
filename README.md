@@ -17,6 +17,7 @@
 - [2026-03-06](daily_leetcode/2026-03-05.md)
 - [2026-03-07](daily_leetcode/2026-03-07.md)
 - [2026-03-08](daily_leetcode/2026-03-08.md)
+- [2026-03-09](daily_leetcode/2026-03-09.md)
   
 ## Math Problem 
 - [checkPrime](Math/checkPrime.md)
@@ -51,7 +52,7 @@
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](daily_leetcode/2026-03-01.md)
 - [1888. Minimum Number of Flips to Make the Binary String Alternating](daily_leetcode/2026-03-07.md)
 - [1980. Find Unique Binary String](daily_leetcode/2026-03-08.md)
-
+- [3129. Find All Possible Stable Binary Arrays I](daily_leetcode/2026-03-09.md)
 
 ## Hard Problem
 - [761. Special Binary String](daily_leetcode/2026-02-20.md)

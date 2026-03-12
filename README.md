@@ -19,7 +19,9 @@
 - [2026-03-08](daily_leetcode/2026-03-08.md)
 - [2026-03-09](daily_leetcode/2026-03-09.md)
 - [2026-03-11](daily_leetcode/2026-03-11.md)
-  
+
+## Pattern
+- [pattern1](pattern/program.md)
 ## Math Problem 
 - [checkPrime](Math/checkPrime.md)
 - [findBinary](Math/findBinary.md)

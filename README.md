@@ -19,6 +19,7 @@
 - [2026-03-08](daily_leetcode/2026-03-08.md)
 - [2026-03-09](daily_leetcode/2026-03-09.md)
 - [2026-03-11](daily_leetcode/2026-03-11.md)
+- [2026-03-13](daily_leetcode/2026-03-13.md)
 
 ## Pattern
 - [pattern1](pattern/program.md)
@@ -57,6 +58,8 @@
 - [1888. Minimum Number of Flips to Make the Binary String Alternating](daily_leetcode/2026-03-07.md)
 - [1980. Find Unique Binary String](daily_leetcode/2026-03-08.md)
 - [3129. Find All Possible Stable Binary Arrays I](daily_leetcode/2026-03-09.md)
+- [3296. Minimum Number of Seconds to Make Mountain Height Zero](daily_leetcode/2026-03-13.md)
+
 
 ## Hard Problem
 - [761. Special Binary String](daily_leetcode/2026-02-20.md)

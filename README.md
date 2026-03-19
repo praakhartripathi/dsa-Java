@@ -44,7 +44,7 @@
 - [1582. Special Positions in a Binary Matrix](daily_leetcode/2026-03-04.md)
 - [1758. Minimum Changes To Make Alternating Binary String](daily_leetcode/2026-03-05.md)
 - [1784. Check if Binary String Has at Most One Segment of Ones](daily_leetcode/2026-03-05.md)
-- [1979. Find_Greatest_Common_Divisor_of_Array](easy/1979. Find_Greatest_Common_Divisor_of_Array.md)
+- [1979. Find_Greatest_Common_Divisor_of_Array](easy/1979.Find_Greatest_Common_Divisor_of_Array.md)
 
 ## Medium Problem
 - [79.Word_Search](medium/79.Word_Search.md)

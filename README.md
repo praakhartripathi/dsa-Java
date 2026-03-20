@@ -27,6 +27,7 @@
 - [checkPrime](Math/checkPrime.md)
 - [findBinary](Math/findBinary.md)
 - [convertBinaryToDecimal](Math/convertBinaryToDecimal.md)
+- [Armstrong](Math/armstring.md)
 
 ## Easy Problems
 - [0001. Two Sum](easy/0001_TwoSum.java)
